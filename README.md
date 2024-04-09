@@ -43,7 +43,7 @@ The algorithm used for trained the models are:-
 
 ## 🔗 Links
 
-[![linkedin](www.linkedin.com/in/nawaj2417)](https://www.linkedin.com/)
+[![linkedin](https://www.linkedin.com/in/nawaj2417/)](https://www.linkedin.com/)
 
 [![Nepohits](www.nepohits.com)](https://nepohits.com/)
 
